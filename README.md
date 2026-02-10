@@ -1,4 +1,4 @@
-List of AI Tools & Platforms by Input Type
+List of AI Tools & Platforms by Input Type:
 
 This repository contains a curated list of popular AI tools and platforms, categorized based on the type of input they process, including Text, Image, Audio, Video, and Coding.
 
